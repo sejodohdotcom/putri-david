@@ -217,7 +217,6 @@ $(document).ready(function() {
     })
 
     loadContent();
-    // loadRSVP();
 
     var ModalEnvelope = new bootstrap.Modal(document.getElementById('open-envelope'))
     ModalEnvelope.show()
